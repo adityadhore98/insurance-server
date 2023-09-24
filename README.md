@@ -1,0 +1,2 @@
+# insurance-server
+config server
